@@ -85,7 +85,13 @@ local function run(msg, matches)
 💭/promote : by <reply|id|username> 
 💭/demote : by <reply|id|username> 
 
-➖🔸➖🔹➖🔸➖🔹➖]]
+➖🔸➖🔹➖🔸➖🔹➖
+ Devloper
+    @ahmedjabbar1
+ channel
+    @p444p
+    
+    ]]
     return text
   else
     local text = [[aaa]]
